@@ -3,9 +3,9 @@ captcha:
   solver-key: ""
 
 settings:
-  invite_code: ""
+  invite_code: "https://discord.gg/5As5FZBYvA"
   threads: 5 
   rotating_proxy: "" # Format is username:password@host:port or host:port
 
-token:
+token: MTEyNTIzODQyNTI3Mjk3OTU0Nw.G2Dvsi.hRrqxMOWmkXarIfbzr_MkRHWQyOiTMeUdlxGxo
   username: "" # Leave empty for random
